@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="javafx-preloader" name="Space">
+    <output-path>$PROJECT_DIR$/out/artifacts/Space</output-path>
+    <root id="archive" name="Space.jar">
+      <element id="module-output" name="Space-Games" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+    </root>
+  </artifact>
+</component>

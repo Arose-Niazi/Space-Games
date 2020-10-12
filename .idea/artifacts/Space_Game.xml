@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Space Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/Space_Game</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Menu.main_menu" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="Space Games" />
+        <option name="vendor" value="Niazi" />
+        <option name="version" value="0.1" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="Space-Games" />
+      <element id="library" level="project" name="mysql-connector-java-8.0.16" />
+    </root>
+  </artifact>
+</component>
